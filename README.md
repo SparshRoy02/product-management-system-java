@@ -52,7 +52,7 @@ Uses ArrayList to store product objects.
 - Displays output on the console
 
 ### Sample Output
-==============================================
+
 Products containing text: black
 
 Product{name='Type C', type='Cable', place='Black Drawer', warranty=2024}
